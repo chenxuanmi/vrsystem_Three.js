@@ -170,9 +170,9 @@ camera.position.y = 30;
 
 具体参考: Three.js的官方例子
 
-图形学相关思路参考:[Three.js全景漫游项目]()
+图形学相关思路参考:[Three.js全景漫游项目](https://github.com/BaoTao1997/vrsystem_Three.js/edit/master/Three.js全景漫游项目.pdf)
 
-项目具体业务逻辑实现:[vrsystem相关说明]()
+项目具体业务逻辑实现:[vrsystem相关说明](https://github.com/BaoTao1997/vrsystem_Three.js/edit/master/vrsystem相关说明.docx)
 
 
 
